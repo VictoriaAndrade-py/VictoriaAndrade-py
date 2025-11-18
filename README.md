@@ -1,6 +1,6 @@
 <h1 align="center"> Olá terráqueos! 👽 </h1>
 
-Me chamo Victoria, sou graduanda de Engenharia Eletrônica. Sou apaixonada por eletônica analógica, sistemas embacados, gatinhos e capivaras.
+Me chamo Victoria, sou graduanda de Engenharia Eletrônica. Sou apaixonada por eletônica analógica, sistemas embarcados, gatinhos e capivaras.
 
 Nesses 23 anos de vida, uma coisa que aprendi é que não importa o quanto conheço um assunto, sempre tem algo novo para aprender.
 
